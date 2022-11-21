@@ -1,7 +1,7 @@
-package strategy.fly;
+package strategy.java.fly;
 
 public class FlyNoWay implements FlyBehavior {
     public void fly() {
-        System.out.print("I cannot fly");
+        System.out.println("I cannot fly \n");
     }
 }

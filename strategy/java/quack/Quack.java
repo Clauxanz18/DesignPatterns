@@ -1,7 +1,7 @@
-package strategy.quack;
+package strategy.java.quack;
 
 public class Quack implements QuackBehavior {
     public void quack() {
-        System.out.print("QUACK!!!!");
+        System.out.println("QUACK!!!! \n");
     }
 }

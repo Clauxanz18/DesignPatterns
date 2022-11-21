@@ -1,7 +1,7 @@
-package strategy;
+package strategy.java;
 
-import strategy.fly.FlyBehavior;
-import strategy.quack.QuackBehavior;
+import strategy.java.fly.FlyBehavior;
+import strategy.java.quack.QuackBehavior;
 
 public abstract class Duck {
     protected FlyBehavior flyBehavior;

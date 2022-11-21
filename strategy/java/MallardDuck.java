@@ -1,7 +1,7 @@
-package strategy;
+package strategy.java;
 
-import strategy.fly.FlyWithWings;
-import strategy.quack.Quack;
+import strategy.java.fly.FlyWithWings;
+import strategy.java.quack.Quack;
 
 public class MallardDuck extends Duck {
     public MallardDuck() {

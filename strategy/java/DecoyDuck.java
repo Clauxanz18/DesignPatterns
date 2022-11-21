@@ -1,7 +1,7 @@
-package strategy;
+package strategy.java;
 
-import strategy.fly.FlyNoWay;
-import strategy.quack.MuteQuack;
+import strategy.java.fly.FlyNoWay;
+import strategy.java.quack.MuteQuack;
 
 public class DecoyDuck extends Duck {
     public DecoyDuck() {

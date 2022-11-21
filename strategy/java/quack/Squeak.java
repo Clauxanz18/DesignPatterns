@@ -1,7 +1,7 @@
-package strategy.quack;
+package strategy.java.quack;
 
 public class Squeak implements QuackBehavior {
     public void quack() {
-        System.out.print("SQUEAAAAAAAAAAK");
+        System.out.println("SQUEAAAAAAAAAAK \n");
     }
 }
