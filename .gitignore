@@ -1,3 +1,4 @@
 *.class
 key
 key.pub
+*.js
