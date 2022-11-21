@@ -6,4 +6,4 @@ TODO: Add summary of use case and context
 
 ## UML Diagram
 
-![Strategy pattern UML diagram](./strategy-uml.png)
+![Strategy pattern UML diagram](./strategy-uml.svg)
