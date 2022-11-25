@@ -12,9 +12,7 @@ export class WeatherData implements Subject {
   }
 
   removeObserver(observer: Observer) {
-    // console.log(observer);
     this.observers = this.observers.filter((o) => o !== observer);
-    // console.log(obs);
   }
 
   notifyObserver() {
