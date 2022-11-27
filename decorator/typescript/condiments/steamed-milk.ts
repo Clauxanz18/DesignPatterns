@@ -7,7 +7,7 @@ export class SteamedMilk extends CondimentDecorator {
     this.beverage = beverage;
   }
 
-  public getDescription() {
+  public getDescription(): string {
     return this.beverage.description + ", Steamed Milk";
   }
 

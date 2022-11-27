@@ -7,7 +7,7 @@ export class HouseBlend extends Beverage {
     this.description = 'House Blend';
   }
   
-  public cost() {
+  public cost(): number {
     return .89;
   }
 }

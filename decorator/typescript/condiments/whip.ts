@@ -8,7 +8,7 @@ export class Whip extends CondimentDecorator {
     this.beverage = beverage;
   }
 
-  public getDescription() {
+  public getDescription(): string {
     return this.beverage.description + ", Whip";
   }
 
