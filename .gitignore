@@ -1,4 +1,10 @@
-*.class
+#SSH files
 key
 key.pub
+
+# Binaries/Transpiled
+*.class
 *.js
+
+# Workspace Config
+.vscode
